@@ -1,6 +1,6 @@
 package desafios
 
-
+// Desafio iniciante
 fun main() {
 
     var consumoTotal = 0.0
